@@ -11,7 +11,6 @@ function automatedParking() {
   var total;
   var free;
   var taken;
-  var compensator;
   var name;
 
   //Set Variables
